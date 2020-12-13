@@ -43,7 +43,7 @@
 
         "planName":"Bicep Workout Plan",
         "planDifficulty":"Expert",
-        "planIntensity":"Moderate",
+        "planIntensity":"High",
         "planDay":"Thursday",
         "planTimeEstimate":"11.0 Min",
         "planNumberOfWorkOuts":"5.0 Workouts",
@@ -57,11 +57,11 @@
 {
 
         "planName":"Shoulder Workout Plan",
-        "planDifficulty":"Expert",
-        "planIntensity":"High",
+        "planDifficulty":"Beginner",
+        "planIntensity":"Low",
         "planDay":"Friday",
         "planTimeEstimate":"25.0 Min",
-        "planNumberOfWorkOuts":"5.0 Workouts",
+        "planNumberOfWorkOuts":"4.0 Workouts",
         "workOutImage":"https://miro.medium.com/max/792/0*sSg4JwcOMiPiIWS1",
         "planSite":"https://www.youtube.com/watch?v=Q0_B-hp7k7Y&ab_channel=THENX"
         
@@ -77,6 +77,19 @@
         "planNumberOfWorkOuts":"9.0 Workouts",
         "workOutImage":"https://geauxchiro.com/Portals/0/EasyDNNnews/38/img-qvh1.JPG",
         "planSite":"https://www.coachmag.co.uk/leg-workouts/8036/do-this-leg-workout-at-home-to-strengthen-your-lower-body"
+
+},
+        
+        {
+ 
+        "planName":"Cardio Plan",
+        "planDifficulty":"Beginner",
+        "planIntensity":"Moderate",
+        "planDay":"Sunday",
+        "planTimeEstimate":"10.0 Min",
+        "planNumberOfWorkOuts":"5.0 Workouts",
+        "workOutImage":"https://banner2.cleanpng.com/20180329/thw/kisspng-silhouette-male-running-sport-running-man-5abcfb93238b32.5983504615223346111456.jpg",
+        "planSite":"https://www.youtube.com/watch?v=sjmsApWcyCU&ab_channel=MadFit"
 
 }
 
