@@ -25,6 +25,20 @@
 
 },
         
+        {
+
+        "planName":"Tricep Workout Plan",
+        "planDifficulty":"Beginner",
+        "planIntensity":"Low",
+        "planDay":"Thursday",
+        "planTimeEstimate":"15.0 Min",
+        "planNumberOfWorkOuts":"3 Workouts",
+        "workOutImage":"https://i.shgcdn.com/c39f9e9e-8e0a-4fa9-9ead-7ab7c3415c9d/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
+        "planSite":"https://www.foreo.com/mysa/3-easy-tricep-exercises/"
+        
+ },
+       
+        
 {
 
         "planName":"Bicep Workout Plan",
@@ -38,18 +52,6 @@
         
  },
  
-        {
-
-        "planName":"Tricep Workout Plan",
-        "planDifficulty":"Beginner",
-        "planIntensity":"Low",
-        "planDay":"Thursday",
-        "planTimeEstimate":"15.0 Min",
-        "planNumberOfWorkOuts":"3 Workouts",
-        "workOutImage":"https://i.shgcdn.com/c39f9e9e-8e0a-4fa9-9ead-7ab7c3415c9d/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
-        "planSite":"https://www.foreo.com/mysa/3-easy-tricep-exercises/"
-        
- },
        
 
 {
